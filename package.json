@@ -14,6 +14,7 @@
     "@solana/spl-token-metadata": "^0.1.4",
     "@solana/web3.js": "^1.93.2",
     "dotenv": "^16.4.5",
+    "hono": "^4.4.10",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
